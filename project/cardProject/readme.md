@@ -1,0 +1,1 @@
+In this project we have to make cards using pure css. This cards should be resposnive for different-different devices. We have to use media queries for this project. We have to make 3 cards. In this project we have to use flexbox for making cards. 
